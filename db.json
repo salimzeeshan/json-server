@@ -13,20 +13,6 @@
       "age": 3,
       "place": "Banglore",
       "gender": "Female"
-    },
-    {
-      "breed": "Labrador",
-      "age": "12",
-      "gender": "male",
-      "place": "New Delhi",
-      "id": 2
-    },
-    {
-      "breed": "Pitbull",
-      "age": "2",
-      "gender": "male",
-      "place": "New Delhi",
-      "id": 3
     }
   ]
 }
