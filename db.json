@@ -1,3 +1,12 @@
 {
-    "employees": []
+    "employees": [
+        {
+            "first_name": "Zeeshan",
+            "last_name": "Salim",
+            "email": "zeeshansalim541@gmail.com",
+            "department": "Tech",
+            "salary": 100000
+
+        }
+    ]
 }
